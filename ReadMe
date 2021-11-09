@@ -1,0 +1,7 @@
+Hi,
+
+In this tutorial i have scraped "https://books.toscrape.com/" Using Scrapy
+Scraped data is in the form of; 
+1) Json file
+2) Csv
+3) Xml
